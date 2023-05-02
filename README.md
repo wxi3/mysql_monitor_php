@@ -1,0 +1,2 @@
+# mysql_monitor_php
+基于原有的mysql_monitor项目进行的二次开发，更方便mysql的执行监控，提高代码审计效率
